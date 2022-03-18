@@ -1,0 +1,25 @@
+{
+  "name": "api-crypto",
+  "version": "1.0.0",
+  "description": "Pruebas js de criptografia y JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosalag/api-crypto.git"
+  },
+  "keywords": [
+    "hash",
+    "salt",
+    "moment",
+    "jwt"
+  ],
+  "author": "Julio Sala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliosalag/api-crypto/issues"
+  },
+  "homepage": "https://github.com/juliosalag/api-crypto#readme"
+}
